@@ -1,11 +1,11 @@
 {
   "name": "plural_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creating an npm package",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-	"uglify": "gulp compress"
+    "uglify": "gulp compress"
   },
   "author": "James",
   "license": "MIT",
